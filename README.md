@@ -15,9 +15,10 @@ I'm Pranav, a master’s student at MIT, focusing on Data Science, Machine Learn
 👨🏻‍💻 My capstone project at Accenture Research is focused on exploring the "future of work". To be less vague, we are developing a system that enables companies to better navigate the impact of Generative AI on the composition of their workforce, maximizing productivity while maintaining low displacement through optimized reskilling initiatives.
 
 Here are some of my **recent projects** that I am happy to share:
-- Kidney Transplantation Network Simulation Analyses: ([Repo](https://github.com/PranavShankarGirish/kidney-simulation-analysis))
+
 - ClueMate: An LLM-powered Crossword Puzzle Companion ([Repo](https://github.com/PranavShankarGirish/crossword-assistant))
 - Sentiment-Enhanced Algorithmic Stock Trading Agent ([Repo](https://github.com/PranavShankarGirish/stock-trading-agent))
 - Reinforcement Learning-inspired Decision Support System for Taxi Drivers ([Repo](https://github.com/PranavShankarGirish/taxi-driver-DSS))
-
+- Kidney Transplantation Network Simulation Analyses: ([Repo](https://github.com/PranavShankarGirish/kidney-simulation-analysis)) -> Presented at the Winter Simulation Conference 2023!
+  
 My email is pranav7@mit.edu. Feel free to reach out!
